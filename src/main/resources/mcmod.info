@@ -1,0 +1,16 @@
+[
+{
+  "modid": "noscoreboard",
+  "name": "NoScoreBoard",
+  "description": "This mod removes the scoreboard",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["vepexlegit"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
