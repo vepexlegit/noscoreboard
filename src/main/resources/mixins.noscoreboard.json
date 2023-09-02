@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "minVersion": "0.7",
+  "package": "de.vepexlegit.noscoreboard.mixins",
+  "refmap": "mixins.noscoreboard.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "client": [
+    "MixinGuiIngame"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
