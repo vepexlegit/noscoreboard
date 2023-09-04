@@ -1,8 +1,8 @@
 [
 {
-  "modid": "noscoreboard",
-  "name": "NoScoreBoard",
-  "description": "This mod removes the scoreboard",
+  "modid": "noscoreboarddebug",
+  "name": "NoScoreBoardDebug",
+  "description": "This mod is an addition to the main scoreboard mod.\nThis add-on will help you turn scoreboard on or off",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
